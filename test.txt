@@ -1,0 +1,3 @@
+Ceci est un fichier de test créé pour démontrer les capacités d'édition.
+
+Date de création : 27/12/2024
